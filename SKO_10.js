@@ -78,9 +78,9 @@ function draw() {
   fill(0); 
   text(
     "I got the zip function working in week 10. Once the zip is opened the word 'Access' appears and can be dragged. The next step was making the text far more interactive. \n\n Click on the face!",
-    width / 2.77,
+    width / 2.9,
     height / 8,
-    width / 3.5, // Specify the width for wrapping the text
+    width / 3.2, // Specify the width for wrapping the text
     height / 4  // Specify the height for wrapping the text
   );
 }
